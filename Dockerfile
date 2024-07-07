@@ -1,1 +1,1 @@
-from docker pull koasdds/render3:latest
+from koasdds/render3:latest
